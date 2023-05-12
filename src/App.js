@@ -115,4 +115,4 @@ function MyButton2({ count, onClick }) {
   );
 }
 
-export default MyApp2;
+export default App;
